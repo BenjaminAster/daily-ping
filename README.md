@@ -1,4 +1,8 @@
 
+# This project has been moved to [BenjaminAster/winzig/examples/daily-ping/](https://github.com/BenjaminAster/winzig/tree/main/examples/daily-ping/)!
+
+---
+
 # Daily Ping
 
 Record daily updates of what you did today.
